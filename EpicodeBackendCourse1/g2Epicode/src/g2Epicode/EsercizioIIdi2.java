@@ -1,7 +1,8 @@
 package g2Epicode;
+import java.util.ArrayList;
 
 public class EsercizioIIdi2 {
-	import java.util.ArrayList;
+
 
 	public class Chiamata {
 	  private int durata;
